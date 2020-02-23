@@ -1,0 +1,4 @@
+real_apps/* filter=git-crypt diff=git-crypt
+web_decyped/* filter=git-crypt diff=git-crypt
+geo/* filter=git-crypt diff=git-crypt
+vault-password.txt filter=git-crypt diff=git-crypt
